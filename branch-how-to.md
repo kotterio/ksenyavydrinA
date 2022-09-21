@@ -8,3 +8,5 @@
 1)git status
 2)git config
 3)git push
+
+Это самая новая версия файла
